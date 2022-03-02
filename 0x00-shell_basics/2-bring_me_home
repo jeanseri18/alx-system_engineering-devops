@@ -1,8 +1,3 @@
-#!/bin/bash
-pwd
-VARHOME=/home
-echo $VARHOME
-cd 
-cd ..
-cd $VARHOME
+#!/bin/bash 
+cd ~
 
